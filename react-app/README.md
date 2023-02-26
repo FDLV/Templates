@@ -1,11 +1,15 @@
 # Template for react app
 
 npx create-react-app react-app
+
 npm install --save-dev --save-exact prettier
+
 npm i concurrently --save-dev
 
 https://prettier.io/
+
 https://prettier.io/docs/en/install.html
+
 https://prettier.io/playground/
 
 # Getting Started with Create React App
